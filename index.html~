@@ -86,7 +86,7 @@
                     <h2 class="section-heading">Este Máster estresa...</h2>
                     <hr class="light">
                     <p class="text-faded">Disfruta de 13 asignaturas sin tiempo de descanso entre clases, largas y dificiles prácticas para casa, asignaturas semipresenciales con las que ocupar tu tiempo libre y mucho más!</p>
-                    <a href="tetris.html" class="btn btn-default btn-xl">¡Sí, quiero estresarme!</a>
+                    <a href="#" class="btn btn-default btn-xl">¡Sí, quiero estresarme!</a>
                 </div>
             </div>
         </div>
